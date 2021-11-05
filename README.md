@@ -1,11 +1,11 @@
-### <h1>Hello I am Darma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
+### <h1>Hello I am Darr <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
 
 
 <img align="center" height="auto" src="https://i.ibb.co/fqyzcWK/995bdc8904a5.jpg"/>
 
 <p align="center">
 
-- 👼 My name is Darr 
+- 👼 My name is Darma 
 - 🗣️ I am 18 years old 
 - 🔭 I am not programmer
      just only normal people
