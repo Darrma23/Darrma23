@@ -1,4 +1,4 @@
-### <h1>Hello I am Darma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+### <h1>Hello I am Darma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
 
 
 <img align="center" height="auto" src="https://i.ibb.co/fqyzcWK/995bdc8904a5.jpg"/>
