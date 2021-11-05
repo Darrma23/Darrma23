@@ -1,3 +1,6 @@
+### Hello I am Darma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+
 <img align="center" height="auto" src="https://i.ibb.co/fqyzcWK/995bdc8904a5.jpg"/>
 
 <p align="center">
@@ -21,3 +24,8 @@
   <a href="https://komarev.com/ghpvc/?username=darrma23&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=darrma23&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
+------
+
+ ⚡ Fun fact: I really like Indomie
+
+![Darma github stats](https://github-readme-stats.vercel.app/api?username=darrma23&show_icons=true&theme=tokyonight) 
