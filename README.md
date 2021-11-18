@@ -20,5 +20,5 @@
 </p>
 
 ------
-<p align="center">
+
 ![Darma github stats](https://github-readme-stats.vercel.app/api?username=darrma23&show_icons=true&theme=tokyonight) 
