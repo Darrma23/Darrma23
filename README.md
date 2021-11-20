@@ -19,10 +19,16 @@
   <a href="https://komarev.com/ghpvc/?username=darrma23&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=darrma23&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
+------
+## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+Hi, I'm Darr, My Full Name Is Kangmas Darr, Or you Can call me as Darma, I'm an 18 y.o Coder.
+<br>
+<p align='center'>
+   <a href="https://wa.me/6281328552597"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/darrma23"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+</P>
 <p align="center">
   <a href="https://github.com/Darrma23"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kangmas Darr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
-
-------
-
+                                                                                                                                       
 ![Darma github stats](https://github-readme-stats.vercel.app/api?username=darrma23&show_icons=true&theme=tokyonight)
