@@ -19,6 +19,10 @@
   <a href="https://komarev.com/ghpvc/?username=darrma23&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=darrma23&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Darrma23"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kangmas Darr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+
 ------
 
 ![Darma github stats](https://github-readme-stats.vercel.app/api?username=darrma23&show_icons=true&theme=tokyonight)
