@@ -1,18 +1,10 @@
 <h1 align="center">Hi! 👋 I'm Darr</h1>
 
 <p align="center">
-  <a href="https://instagram.com/darrma23"><img src="http://readme-typing-svg.herokuapp.com?color=2CDE00&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Html%2C+Css%2C+Javascript.;studying+to+be+a+programmer." alt="Darma">
+  <a href="https://instagram.com/darrma23"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=My+Name+Darr.;Just+Normal+People+From+Indonesia.;Im+18+Years+old.;studying+to+be+a+programmer." alt="Darma">
 </p>
   
 <img align="center" height="auto" src="https://i.ibb.co/fqyzcWK/995bdc8904a5.jpg"/>
-
-<p align="center">
-
-- 👼 My name is Darma 
-- 🗣️ I am 18 years old 
-- 🔭 I am not programmer just only normal people
-
-</p>
 
 ------
 ### Connect with me ☎️
