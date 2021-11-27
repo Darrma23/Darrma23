@@ -18,3 +18,9 @@
 ------
                                                                                                                                        
 ![Darma github stats](https://github-readme-stats.vercel.app/api?username=darrma23&show_icons=true&theme=tokyonight)
+
+
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/darrma23"><img src="https://github-readme-stats.vercel.app/api?username=darrma23&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/darrma23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrma23c&theme=radical&layout=compact"></a></p> 
