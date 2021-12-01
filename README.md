@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://instagram.com/darrma23"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+18+Years+old.;studying+to+be+a+programmer." alt="Darma">
 </p>
-  ![My card name](https://cardivo.vercel.app/api?name=Kangmas%20-%20Darr&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=___Kangmas____Darr___&linkedin=___Kangmas____Darr___&github=Darrma23&pattern=leaf&colorPattern=%23eaeaea)
 
 ------
 ### Connect with me ☎️
