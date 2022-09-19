@@ -3,8 +3,6 @@
 <p align="center">
   <a href="https://instagram.com/darrma23"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+18+Years+old.;studying+to+be+a+programmer." alt="Darma">
 </p>
-  
-![My card name](https://cardivo.vercel.app/api?name=Darrma23&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.ibb.co/z4ws21x/f28a92fb0e4b.jpg)
 
 ------
 ### Connect with me ☎️
@@ -26,3 +24,6 @@
 
 <p align="center"><a href="https://github.com/darrma23"><img src="https://github-readme-stats.vercel.app/api?username=darrma23&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/darrma23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrma23&theme=radical&layout=compact"></a></p> 
+
+
+![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
