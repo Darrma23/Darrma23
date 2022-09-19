@@ -26,4 +26,4 @@
 <p align="center"><a href="https://github.com/darrma23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrma23&theme=radical&layout=compact"></a></p> 
 
 
-![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Darrma23/Darrma23/blob/output/github-contribution-grid-snake.svg)
