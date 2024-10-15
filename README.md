@@ -22,4 +22,4 @@
                                                                                   
 
 
-[Snake animation](https://github.com/Darrma23/Darrma23/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Darrma23/Darrma23/blob/output/github-contribution-grid-snake.svg)
