@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm Darr</h1>
 
 <p align="center">
-  <a href="https://instagram.com/darrma23"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+18+Years+old.;studying+to+be+a+programmer." alt="Darma">
+  <a href="https://instagram.com/darrma23"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+21+Years+old.;studying+to+be+a+programmer." alt="Darma">
 </p>
 
 ------
@@ -22,4 +22,4 @@
                                                                                   
 
 
-![Snake animation](https://github.com/Darrma23/Darrma23/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/Darrma23/Darrma23/blob/output/github-contribution-grid-snake.svg)
