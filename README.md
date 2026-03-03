@@ -1,25 +1,65 @@
-<h1 align="center">Hi! 👋 I'm Darr</h1>
+<!-- Animated Header --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Darma+Syamsi;Backend+Developer;Building+Scalable+API+Systems;Future+System+Architect" />
+</p><h3 align="center">⚙️ Backend Engineer in Progress</h3>---
+
+👨‍💻 About Me
+
+- 🧠 23 y/o developer focused on backend engineering
+- 🚀 Currently building API platforms & automation systems
+- 🔥 Interested in scalable architecture & performance optimization
+- 🛠 Turning messy ideas into structured backend systems
+- 🎵 Rock enthusiast
+
+---
+
+🧰 Tech Stack
 
 <p align="center">
-  <a href="https://instagram.com/darrma23"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+21+Years+old.;studying+to+be+a+programmer." alt="Darma">
-</p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts,redis,linux,git,vscode" />
+</p>---
 
-------
-### Connect with me ☎️
+🧠 Current Focus
+
+- Designing production-ready API systems
+- Improving system architecture knowledge
+- Authentication & security best practices
+- Performance & clean code principles
+
+---
+
+📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Darrma23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrma23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>---
+
+🔥 Streak Stats
+
 <p align="center">
-  <a href="https://instagram.com/darrma23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://chat.whatsapp.com/H8Ln7iZhiV5LXrC6SUK80v"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-darrma23-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
-  <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/darrma23"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://komarev.com/ghpvc/?username=darrma23&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=darrma23&color=blue&style=flat-square&label=Profile+View"></a>
+  <img src="https://streak-stats.demolab.com?user=Darrma23&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>---
+
+📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrma23&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+</p>---
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Darrma23/Darrma23/output/github-contribution-grid-snake.svg" />
+</p>---
+
+🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Darrma23">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darrma23&color=blueviolet&style=flat-square" />
 </p>
-
-------
-                                                                                  
-
-
-![Snake animation](https://github.com/Darrma23/Darrma23/blob/output/github-contribution-grid-snake.svg)
