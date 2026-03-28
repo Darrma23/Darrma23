@@ -37,8 +37,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Darrma23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrma23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="./github-metrics.svg" />
 </p>
 
 ---
